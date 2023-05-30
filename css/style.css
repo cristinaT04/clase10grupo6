@@ -22,10 +22,11 @@
     position: relative;
     margin: 100px 30px 100px 30px;
     background-color: #F3F3F3;
-
     width: 300px;
     height: 450px;
     text-align: center;
+    box-sizing: border-box;
+
 }
 
 .corazon{
